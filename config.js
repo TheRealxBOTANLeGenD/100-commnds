@@ -1,3 +1,3 @@
 exports.PREFIX = "!";
 exports.OWNER_ID = "";
-exports.Owner_Name = "DarkThunder#1899";
+exports.Owner_Name = ", Robot°1 The Evil#1221";
