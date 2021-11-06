@@ -88,8 +88,8 @@ or You can Run start.sh File to Start the Bot
 ⚙️ Utility Commands
 ```
 
-1. [Fork the repository](https://github.com/DarkThunder99/100-Commands-V2/fork)
-2. Clone your fork: `git clone https://github.com/DarkThunder99/100-Commands-V2.git`
+1. [Fork the repository](https://github.com/afsos-project-s/bot-with-100-command/fork)
+2. Clone your fork: `git clone https://github.com/afsos-project-s/bot-with-100-command`
 
 ## 📝 Credits
 This Bot is Not Made By Me (My Friend gave me This Code)
