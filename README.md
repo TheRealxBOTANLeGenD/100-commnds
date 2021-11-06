@@ -1,15 +1,7 @@
-# 100-Commands-V2
+# 100-Commands
 
 
-## Requirements
-1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-2. Node.js v12.0.0 or Newer
 
-## 💨 Run the projects
-
-[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/DarkThunder99/100-Commands-V2)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/DarkThunder99/100-Commands-V2)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkThunder99/100-Commands-V2)
 
 ## 🚀 Getting Started
 
@@ -34,7 +26,7 @@ Go to `Config.js` and Fill This
 ```
 exports.PREFIX = "!";
 exports.OWNER_ID = "";
-exports.Owner_Name = "";
+exports.Owner_Name = ", Robot°1 The Evil#1221";
 ```
 
 #### Step 2
@@ -43,7 +35,7 @@ Fill `config.json` (I've Filled it Already So you Don't need to Edit Anything He
 {
     "AME_API":"08d6ce618e7c3a01eae2fe9b71ba740bbd257ed1c3d635a3689ba4bb4ca64f44fa8e16b88367a8efddf86866feaded0e32710e9f7acd8461c79710c4d9e32f71",
     "embedcolor": "#68bcff",
-    "support": "https://dsc.gg/gcafe",
+    "support": "https://dsc.gg/",
     "JoinImage": "https://cdn.discordapp.com/attachments/836804667282423831/845207015567392778/images_-_2021-05-21T131826.974.jpeg",
     "LeftImage": "https://cdn.discordapp.com/attachments/836804667282423831/845207015567392778/images_-_2021-05-21T131826.974.jpeg",
     "status": "online",
