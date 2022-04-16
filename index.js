@@ -467,4 +467,4 @@ function decodeMs(num) {
 
 
 
-bot.login("Bot-Token");
+bot.login("OTY0NzcwMDcyMDAwMzM1OTAy.YlpeJQ.PZvREAs8fE4JlaObdcbdcqqr6Tk");
